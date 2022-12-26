@@ -1,7 +1,17 @@
-/************** Deneme2 ***********/
+
 
 /* class -> .text-red {} */
+
 /* id -> #id-bilgisi {} */
+
+
+/*css selections */
+
+.color-blue {
+    color: blue;
+    font-weight: normal;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #e29090;
 }
@@ -11,7 +21,7 @@ p {
 }
 
 #first-article {
-    font-size: 40px;
+    font-size: 80px;
 }
 
 
@@ -30,4 +40,4 @@ p {
 
 .fs-30 {
     font-size: 100px;
-}
+}  
